@@ -13,4 +13,4 @@ Please clone this repository, edit README.md to answer the questions, and fill u
 See [cpp-template](https://github.com/ourarash/cpp-template) for help on installing bazel and debugging.
 
 ## Question  1 and 2
-Implementations the Dijkstra's algorithm, Bellman-Ford algorithm, and BFS (Breadth-First Search) to compute distances between nodes within a graph data structure
+Implement the Dijkstra's algorithm, Bellman-Ford algorithm, and BFS (Breadth-First Search) to compute distances between nodes within a graph data structure
